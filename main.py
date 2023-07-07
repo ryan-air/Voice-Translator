@@ -1,3 +1,4 @@
+## Inspired and based on the work of AI Austin.
 #Importing dependencies 
 import pyttsx3
 import speech_recognition as sr
